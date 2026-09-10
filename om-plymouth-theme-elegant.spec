@@ -4,7 +4,7 @@
 
 Summary:	"Openmandriva Elegant" Plymouth theme
 Name:		om-plymouth-theme-elegant
-Version:	2.0
+Version:	2.1
 Release:	1
 License:	Creative Commons Attribution-ShareAlike
 Group:		System/Kernel and hardware
